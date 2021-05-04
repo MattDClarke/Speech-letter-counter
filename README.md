@@ -1,0 +1,1 @@
+This program uses the Web Speech API speech recognition interface. It is an experimental technology. Support for Web Speech API speech recognition is currently limited to the following browsers: Chrome, Edge and Samsung Internet (https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition).
